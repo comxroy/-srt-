@@ -1,9 +1,9 @@
 #!/usr/bin/env python
 # -*- encoding: utf-8 -*-
 '''
-@File    :   youdaofanyi.py
+@File    :   网易见外翻译.py
 @Time    :   2023/04/18 17:18:23
-@Author  :   R.
+@Author  :   R
 '''
 
 # here put the import lib
